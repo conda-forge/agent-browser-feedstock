@@ -1,5 +1,5 @@
 context:
-  version: "0.43.0"
+  version: "0.44.0"
 
 package:
   name: agent-browser
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/vercel-labs/agent-browser/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: ed52840279526f057977a98e99d60fe0ab760122ee73ce11f4cf050e47938913
+  sha256: 5bf6bb004e584a36ac9e44449d71c5853f859b01ef7b2eb55c326afa30de7de1
 
 build:
   number: 0
